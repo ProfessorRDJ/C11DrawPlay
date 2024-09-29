@@ -1,0 +1,54 @@
+commit aea5dab9218200e7fe449081f11da16859d238c6
+Author: sgampher <118234783+sgampher@users.noreply.github.com>
+Date:   Fri Sep 27 16:54:10 2024 -0600
+
+    Create and sign README.md (D: Sara, N: Robert)
+
+commit 77f96442421f0cfc21f7399554f34027e0c6769c
+Author: sgampher <saragampher@gmail.com>
+Date:   Fri Sep 27 16:50:42 2024 -0600
+
+    Reduced Mouth Width (D: Sara, N: Robert)
+
+commit 1f553012afb4b4eb429248d2eb96b3b88a07d660
+Author: Robery Davis <rob2davis2@gmail.com>
+Date:   Fri Sep 27 11:11:21 2024 -0600
+
+    Fixed semicolon errors (D: Robert, N: Sara)
+
+commit c9cb617d5c7d7635bbea00507b161e7d564b5c7f
+Merge: 184dafa c911961
+Author: Robery Davis <rob2davis2@gmail.com>
+Date:   Fri Sep 27 11:10:26 2024 -0600
+
+    changed head size (D: Robert, N: Sara)
+
+commit 184dafa80dd4fb491dc74242c13a80f29999217a
+Author: Robery Davis <rob2davis2@gmail.com>
+Date:   Fri Sep 27 11:08:55 2024 -0600
+
+    fixed import errors (D: Robert, N: Sara)
+
+commit c91196164d5217c6e9e038650663987860e850e3
+Author: sgampher <saragampher@gmail.com>
+Date:   Fri Sep 27 10:54:37 2024 -0600
+
+    Changed window size (D: Sara, N: Robert)
+
+commit 01c564bcfe59091e7170d7323c93903166dc699e
+Author: Robery Davis <rob2davis2@gmail.com>
+Date:   Fri Sep 27 10:50:24 2024 -0600
+
+    changed eye color (D: Robert, N: Sara)
+
+commit 14012afd9ad900fecce334ace5433f2dc653affa
+Author: sgampher <saragampher@gmail.com>
+Date:   Fri Sep 27 10:48:41 2024 -0600
+
+    rebase
+
+commit 15c25a4580a74a7005b18810d4f90f43462cc7f9
+Author: Robery Davis <rob2davis2@gmail.com>
+Date:   Fri Sep 27 10:22:04 2024 -0600
+
+    Initial commit 
